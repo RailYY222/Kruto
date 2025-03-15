@@ -18,7 +18,7 @@ const Header = () => {
         <Link to="/">MyLogo</Link>
       </div>
       <nav className="nav">
-        <Link to="/">Главная</Link>
+        <Link to="/">Главнаdsfsdfdsfsdfsdfя</Link>
         {isAuth ? (
           <button onClick={handleLogout}>Выйти</button>
         ) : (
